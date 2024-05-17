@@ -1,1 +1,1 @@
-Above codes are in C programming language
+Above codes are in C programming language executed in Dev C++
